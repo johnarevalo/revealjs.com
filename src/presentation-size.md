@@ -59,6 +59,6 @@ If you want disable the built-in scaling and centering and Bring Your Own Layout
 
 ```javascript
 Reveal.initialize({
-  disableLayout: false
+  disableLayout: true
 });
 ```
